@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.Scanner;
-public class Order_System 
+public class Order_System
 {
 	public static void Home()
 	{
